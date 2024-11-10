@@ -19,3 +19,5 @@ Database ORM: Prisma <br/>
 State Management: Zustand <br/>
 Styling: React Bootstrap <br/>
 Language: TypeScript <br/>
+
+### Currently tryind to add Authentication & Authorization using nextAuthJS
